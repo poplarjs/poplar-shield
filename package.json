@@ -1,0 +1,26 @@
+{
+  "name": "poplar-shield",
+  "version": "1.0.0",
+  "description": "Powerful shield that protects your poplar or express app from attacking",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poplarjs/poplar-shield.git"
+  },
+  "keywords": [
+    "poplar",
+    "shield",
+    "attack",
+    "authentication",
+    "sign"
+  ],
+  "author": "lyfeyaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poplarjs/poplar-shield/issues"
+  },
+  "homepage": "https://github.com/poplarjs/poplar-shield#readme"
+}
