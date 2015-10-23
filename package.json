@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/poplarjs/poplar-shield/issues"
   },
-  "homepage": "https://github.com/poplarjs/poplar-shield#readme"
+  "homepage": "https://github.com/poplarjs/poplar-shield#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
