@@ -1,6 +1,6 @@
 {
   "name": "poplar-shield",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Powerful shield that protects your poplar or express app from attacking",
   "main": "index.js",
   "scripts": {
